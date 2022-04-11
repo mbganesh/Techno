@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Techno/static/css/main.e6c13ad2.css",
+    "main.js": "/Techno/static/js/main.6d038dea.js",
+    "static/js/787.0c8b6088.chunk.js": "/Techno/static/js/787.0c8b6088.chunk.js",
+    "index.html": "/Techno/index.html",
+    "main.e6c13ad2.css.map": "/Techno/static/css/main.e6c13ad2.css.map",
+    "main.6d038dea.js.map": "/Techno/static/js/main.6d038dea.js.map",
+    "787.0c8b6088.chunk.js.map": "/Techno/static/js/787.0c8b6088.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d038dea.js"
+  ]
+}
